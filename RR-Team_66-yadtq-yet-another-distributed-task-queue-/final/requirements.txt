@@ -1,0 +1,5 @@
+#requirements.txt
+kafka-python
+redis
+uuid
+python-dotenv
